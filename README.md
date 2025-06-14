@@ -1,2 +1,2 @@
 # MiniProjectRepo
-TodoList
+This is a TodoList Application developed in Java.
